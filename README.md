@@ -7,6 +7,6 @@ This repository contains the dataset and R scripts used for unsupervised machine
 - Statistical comparison of bond features
 ## Files
 - ligand-complex-raw-data.xlsx (dataset)
-- analysis_code.R.docx (analysis script)
+- analysis_code.R (analysis script)
 ## Purpose
 This work supports a research study on data-driven structural analysis of metal–ligand systems.
